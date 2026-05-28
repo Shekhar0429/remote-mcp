@@ -1,0 +1,33 @@
+{
+  "Expenses": {
+    "Housing": ["Rent", "Mortgage", "Property Taxes", "Home Maintenance"],
+    "Utilities": ["Electricity", "Water", "Gas", "Internet", "Phone"],
+    "Transportation": [
+      "Fuel",
+      "Public Transit",
+      "Car Payment",
+      "Insurance",
+      "Repairs",
+      "Parking"
+    ],
+    "Food": ["Groceries", "Dining Out", "Snacks", "Beverages"],
+    "Healthcare": [
+      "Insurance Premiums",
+      "Doctor Visits",
+      "Medications",
+      "Dental Care",
+      "Vision Care"
+    ],
+    "Personal": ["Clothing", "Haircuts", "Gym Membership", "Subscriptions"],
+    "Entertainment": ["Movies", "Streaming Services", "Concerts", "Games"],
+    "Education": ["Tuition", "Books", "Courses", "Supplies"],
+    "Savings & Investments": [
+      "Emergency Fund",
+      "Retirement",
+      "Stocks",
+      "Mutual Funds"
+    ],
+    "Debt Payments": ["Credit Card", "Student Loan", "Personal Loan"],
+    "Miscellaneous": ["Gifts", "Donations", "Pet Care", "Travel"]
+  }
+}
